@@ -1,2 +1,2 @@
 # TalentScreen-Pasha
-npm install
+npm install npm
